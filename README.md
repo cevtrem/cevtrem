@@ -1,6 +1,12 @@
-# Антон Младинский
+# Python Backend Developer
 
-### Python Backend Developer
+---
+
+### 📧 Мои контакты
+
+-   **Email:** [anton.mladinsky@yandex.ru](mailto:anton.mladinsky@yandex.ru)
+-   **Telegram:** [@Anton_Mladinsky](https://t.me/Anton_Mladinsky)
+
 
 ---
 
@@ -44,11 +50,3 @@
     -   Курс: Python-разработчик
     -   Сертификат: [Python-разработчик: расширенный курс](./certificates/Python-разработчик_расширенный_курс.pdf)
 
----
-
-### 📧 Мои контакты
-
--   **Email:** [anton.mladinsky@yandex.ru](mailto:anton.mladinsky@yandex.ru)
--   **Telegram:** [@Anton_Mladinsky](https://t.me/Anton_Mladinsky)
-
----
