@@ -26,32 +26,18 @@ Backend-разработчик на Python. Освоил полный цикл �
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgresql,docker,github,pytest,linux" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgresql,docker,github,asyncio,aiohttp,linux,vscode,pycharm,bash" />
   </a>
 </p>
 
 #### Стек:
-*   `Python`
-*   `Django`
-*   `FastAPI`
-*   `Flask`
-*   `Celery`
-*   `Redis`
-*   `SQLAlchemy`
-*   `PostgreSQL`
-*   `Docker`
-*   `REST API`
+`Python` &nbsp; `Django` &nbsp; `FastAPI` &nbsp; `Flask` &nbsp; `Celery` &nbsp; `Redis` &nbsp; `SQLAlchemy` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `REST API` &nbsp; `asyncio` &nbsp; `aiohttp`
 
 #### Инструменты:
-*   `GitHub`
-*   `Linux`
-*   `Pytest`
+`GitHub` &nbsp; `Linux` &nbsp; `VS Code` &nbsp; `PyCharm` &nbsp; `Bash`
 
 #### AI-ассистенты:
-*   `Gemini CLI`
-*   `Claude`
-*   `Kilo Code`
-*   `Copilot`
+`Gemini CLI` &nbsp; `Claude` &nbsp; `Kilo Code` &nbsp; `Copilot`
 
 ---
 
