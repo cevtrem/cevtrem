@@ -36,7 +36,7 @@
 | **python-final-diplom** | Backend-приложение для автоматизации закупок в розничной сети. Реализовано на Django Rest Framework с использованием PostgreSQL, Celery, Redis и Docker. | [Ссылка](https://github.com/cevtrem/python-final-diplom) |
 | **Aiohttp** | REST API для управления объявлениями, построенный на асинхронном фреймворке aiohttp с использованием асинхронной базы данных SQLAlchemy. | [Ссылка](https://github.com/cevtrem/Aiohttp) |
 | **Kurs_Work_EnglishCard** | Телеграм-бот для изучения английских слов с использованием `pyTelegramBotAPI` и PostgreSQL. | [Ссылка](https://github.com/cevtrem/Kurs_Work_EnglishCard) |
-| **VK-bot-group** | VK-бот для поиска людей. Я реализовал основную логику работы с базой данных, управление избранными контактами и обработку команд, обеспечив стабильную финальную версию проекта. | [Ссылка](https://github.com/VK-bot-group/VK-bot-group) |
+| **VK-bot-group** | Командный проект по созданию VK-бота для поиска людей. Я реализовал основную логику работы с базой данных, управление избранными контактами и обработку команд, обеспечив стабильную финальную версию проекта. | [Ссылка](https://github.com/VK-bot-group/VK-bot-group) |
 
 ---
 
