@@ -18,26 +18,20 @@
 
 ### 👨‍💻 Обо мне
 
-
-
-Я целеустремленный Python Backend Developer с опытом работы над разнообразными проектами. Обладаю глубокими знаниями в области веб-разработки, асинхронного программирования и работы с базами данных. Мой фокус — создание надежных и масштабируемых решений. Активно изучаю интеграцию AI-агентов и нейросетей в современные приложения. Готов применять свои навыки в динамичной команде и постоянно развиваться.
-
-
+Backend-разработчик на Python. Освоил полный цикл разработки на учебных проектах с использованием Django, FastAPI, PostgreSQL, Redis, Docker и Celery. Увлечен асинхронным программированием и активно исследую применение AI в backend-разработке. Готов применять и углублять свои знания в рамках реальных проектов.
 
 ---
-
-
 
 ### 🛠️ Навыки
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgresql,docker,github,pytest" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgresql,docker,github,pytest,linux,restapi,vscode,git" />
   </a>
 </p>
 
 <p align="center">
-  <code>Python</code> &nbsp; <code>Django</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Flask</code> &nbsp; <code>Celery</code> &nbsp; <code>Redis</code> &nbsp; <code>SQLAlchemy</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Docker</code> &nbsp; <code>GitHub</code> &nbsp; <code>Pytest</code>
+  <code>Python</code> &nbsp; <code>Django</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Flask</code> &nbsp; <code>Celery</code> &nbsp; <code>Redis</code> &nbsp; <code>SQLAlchemy</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Docker</code> &nbsp; <code>GitHub</code> &nbsp; <code>Pytest</code> &nbsp; <code>Linux</code> &nbsp; <code>REST API</code> &nbsp; <code>VS Code</code> &nbsp; <code>Git</code>
 </p>
 
 ---
