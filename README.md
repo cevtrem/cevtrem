@@ -26,12 +26,12 @@ Backend-разработчик на Python. Освоил полный цикл �
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgresql,docker,github,asyncio,aiohttp,linux,vscode,pycharm,bash,pytelegrambotapi,aiogram" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,redis,postgresql,docker,github,linux,vscode,pycharm,bash,pytelegrambotapi,aiogram" />
   </a>
 </p>
 
 #### Стек:
-`Python` &nbsp; `Django` &nbsp; `FastAPI` &nbsp; `Flask` &nbsp; `Celery` &nbsp; `Redis` &nbsp; `SQLAlchemy` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `REST API` &nbsp; `asyncio` &nbsp; `aiohttp` &nbsp; `pyTelegramBotAPI` &nbsp; `aiogram`
+`Python` &nbsp; `Django` &nbsp; `FastAPI` &nbsp; `Flask` &nbsp; `Celery` &nbsp; `Redis` &nbsp; `SQLAlchemy` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `REST API` &nbsp; `Asyncio` &nbsp; `Aiohttp` &nbsp; `pyTelegramBotAPI` &nbsp; `aiogram`
 
 #### Инструменты:
 `GitHub` &nbsp; `Linux` &nbsp; `VS Code` &nbsp; `PyCharm` &nbsp; `Bash`
