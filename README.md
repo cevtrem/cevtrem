@@ -1,21 +1,14 @@
-# Привет, я Антон! 👋
+# Антон Младинский
 
-<p align="center">
-  <a href="https://github.com/cevtrem">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1CAE82&center=true&vCenter=true&width=435&lines=Python-разработчик;Backend-разработчик" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:anton.mladinsky@yandex.ru"><img src="https://img.shields.io/badge/Yandex-Mail-red?style=for-the-badge&logo=yandex" alt="Yandex Mail"></a>
-  <a href="https://t.me/Anton_Mladinsky"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
-</p>
+### Python Backend Developer
 
 ---
 
 ### 👨‍💻 Обо мне
 
 Целеустремленный начинающий Python-разработчик, осознанно сменивший профессию. Прошел интенсивный годовой курс, подкрепленный практическими проектами. Интересуюсь интеграцией нейросетей и AI-агентов в современную разработку. Стремлюсь присоединиться к команде, где смогу применять и развивать свои навыки, учиться у опытных коллег и приносить реальную пользу.
+
+---
 
 ### 🛠️ Навыки
 
@@ -28,13 +21,6 @@
 <p align="center">
   <code>Python</code> &nbsp; <code>Django</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Flask</code> &nbsp; <code>Celery</code> &nbsp; <code>Redis</code> &nbsp; <code>SQLAlchemy</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Docker</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>PyCharm</code> &nbsp; <code>Pytest</code>
 </p>
-
----
-
-### 📧 Мои контакты
-
--   **Email:** anton.mladinsky@yandex.ru
--   **Telegram:** @Anton_Mladinsky
 
 ---
 
@@ -57,5 +43,12 @@
 -   **ООО «Нетология»** (2025)
     -   Курс: Python-разработчик
     -   Сертификат: [Python-разработчик: расширенный курс](./certificates/Python-разработчик_расширенный_курс.pdf)
+
+---
+
+### 📧 Мои контакты
+
+-   **Email:** [anton.mladinsky@yandex.ru](mailto:anton.mladinsky@yandex.ru)
+-   **Telegram:** [@Anton_Mladinsky](https://t.me/Anton_Mladinsky)
 
 ---
