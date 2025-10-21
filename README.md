@@ -30,27 +30,15 @@
 
 ### 🛠️ Навыки
 
-
-
 <p align="center">
-
   <a href="https://skillicons.dev">
-
     <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgres,docker,github,pytest" />
-
   </a>
-
 </p>
-
-
 
 <p align="center">
-
   <code>Python</code> &nbsp; <code>Django</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Flask</code> &nbsp; <code>Celery</code> &nbsp; <code>Redis</code> &nbsp; <code>SQLAlchemy</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Docker</code> &nbsp; <code>GitHub</code> &nbsp; <code>Pytest</code>
-
 </p>
-
-
 
 ---
 
