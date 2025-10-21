@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/cevtrem">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1CAE82&center=true&vCenter=true&width=435&lines=Python-разработчик;Энтузиаст+AI+%26+нейросетей" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=1CAE82&center=true&vCenter=true&width=435&lines=Python-разработчик;Backend-разработчик" alt="Typing SVG" />
   </a>
 </p>
 
