@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Обо мне
 
-Backend-разработчик на Python. Освоил полный цикл разработки на учебных проектах с использованием Django, FastAPI, PostgreSQL, Redis, Docker и Celery. Увлечен асинхронным программированием и активно исследую применение AI в backend-разработке. Готов применять и углублять свои знания в рамках реальных проектов.
+Backend-разработчик на Python. Освоил полный цикл разработки, включая проектирование архитектуры, контейнеризацию (Docker), развертывание (CI/CD), оптимизацию производительности (WSGI) и тестирование. Увлечен асинхронным программированием, разработкой Telegram-ботов и активно исследую применение AI в backend-разработке. Готов применять и углублять свои знания в рамках реальных проектов.
 
 ---
 
@@ -26,12 +26,12 @@ Backend-разработчик на Python. Освоил полный цикл �
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgresql,docker,github,asyncio,aiohttp,linux,vscode,pycharm,bash" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgresql,docker,github,asyncio,aiohttp,linux,vscode,pycharm,bash,pytelegrambotapi,aiogram" />
   </a>
 </p>
 
 #### Стек:
-`Python` &nbsp; `Django` &nbsp; `FastAPI` &nbsp; `Flask` &nbsp; `Celery` &nbsp; `Redis` &nbsp; `SQLAlchemy` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `REST API` &nbsp; `asyncio` &nbsp; `aiohttp`
+`Python` &nbsp; `Django` &nbsp; `FastAPI` &nbsp; `Flask` &nbsp; `Celery` &nbsp; `Redis` &nbsp; `SQLAlchemy` &nbsp; `PostgreSQL` &nbsp; `Docker` &nbsp; `REST API` &nbsp; `asyncio` &nbsp; `aiohttp` &nbsp; `pyTelegramBotAPI` &nbsp; `aiogram`
 
 #### Инструменты:
 `GitHub` &nbsp; `Linux` &nbsp; `VS Code` &nbsp; `PyCharm` &nbsp; `Bash`
