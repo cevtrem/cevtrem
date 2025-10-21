@@ -26,12 +26,12 @@ Backend-разработчик на Python. Освоил полный цикл �
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgresql,docker,github,pytest,linux,restapi,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,celery,redis,sqlalchemy,postgresql,docker,github,pytest,linux,restapi" />
   </a>
 </p>
 
 <p align="center">
-  <code>Python</code> &nbsp; <code>Django</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Flask</code> &nbsp; <code>Celery</code> &nbsp; <code>Redis</code> &nbsp; <code>SQLAlchemy</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Docker</code> &nbsp; <code>GitHub</code> &nbsp; <code>Pytest</code> &nbsp; <code>Linux</code> &nbsp; <code>REST API</code> &nbsp; <code>VS Code</code> &nbsp; <code>Git</code>
+  <code>Python</code> &nbsp; <code>Django</code> &nbsp; <code>FastAPI</code> &nbsp; <code>Flask</code> &nbsp; <code>Celery</code> &nbsp; <code>Redis</code> &nbsp; <code>SQLAlchemy</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Docker</code> &nbsp; <code>GitHub</code> &nbsp; <code>Pytest</code> &nbsp; <code>Linux</code> &nbsp; <code>REST API</code>
 </p>
 
 ---
