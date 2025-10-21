@@ -76,11 +76,9 @@ Backend-разработчик на Python. Освоил полный цикл �
 
     -   Сертификат: [Git](./certificates/certificate_git.pdf)
 
-    -   Сертификат: [Профессиональный](./certificates/certificate_Pro.pdf)
+    -   Сертификат: [Python](./certificates/certificate_Pro.pdf)
 
     -   Сертификат: [Веб-разработка](./certificates/certificate_Web.pdf)
-
-    -   Сертификат: [Дополнительный 1](./certificates/certificate1.pdf)
 
 
 
