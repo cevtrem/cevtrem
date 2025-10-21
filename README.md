@@ -37,7 +37,7 @@ Backend-разработчик на Python. Освоил полный цикл �
 `GitHub` &nbsp; `Linux` &nbsp; `VS Code` &nbsp; `PyCharm` &nbsp; `Bash`
 
 #### AI-ассистенты:
-`Gemini CLI` &nbsp; `Claude` &nbsp; `Kilo Code` &nbsp; `Copilot`
+`Gemini CLI` &nbsp; `Claude Code` &nbsp; `Kilo Code` &nbsp; `Copilot`
 
 ---
 
